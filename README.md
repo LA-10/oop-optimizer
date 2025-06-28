@@ -1,9 +1,8 @@
 # 🧠 OOPOA CLI – Object-Oriented Programming Optimization Algorithm
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/github/license/your-username/oopoa-cli.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Version](https://img.shields.io/badge/version-0.1.0-orange)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
 ![Platform](https://img.shields.io/badge/platform-cli-lightgrey)
 
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -44,7 +43,7 @@ The original paper presented only **high-level pseudocode and performance graphs
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/oopoa-cli.git
+git clone https://github.com/LA-10/oop-optimizer.git
 cd oopoa-cli
 pip install -e .
 ```
