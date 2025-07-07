@@ -64,16 +64,17 @@ The original paper presented only **high-level pseudocode and performance graphs
 
 ## 📦 Installation
 
+
 ```bash
 git clone https://github.com/LA-10/oop-optimizer.git
 cd oopoa-cli
 pip install -e .
 ```
 
-Then run the tool:
+OR, to use the tool only: 
 
 ```bash
-oopoa --help
+pip install oopoa
 ```
 
 ---
