@@ -1,5 +1,5 @@
 import click
-from commands import benchmark, plot
+from .commands import benchmark, plot
 
 @click.group()
 def cli():

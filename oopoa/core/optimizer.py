@@ -1,6 +1,6 @@
 import numpy as np
 import random
-from core.population import *
+from .population import *
     
 
 

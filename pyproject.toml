@@ -1,0 +1,28 @@
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oopoa"
+version = "0.2"
+description = 'OOPOA CLI Tool (Object-Oriented Programming Optimization Algorithm)'
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "click",
+    "pandas",
+    "colorama"
+]
+requires-python = ">=3.8"
+readme = "README.md"
+license = "MIT"
+[project.scripts] 
+oopoa = "oopoa.main:cli"
+
+[tool.setuptools.packages.find]
+exclude = ["results"]
+
+[project.urls]
+Homepage = "https://github.com/LA-10/oop-optimizer"
+issues = "https://github.com/LA-10/oop-optimizer/issues"

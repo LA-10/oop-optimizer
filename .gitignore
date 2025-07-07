@@ -1,3 +1,6 @@
 venv
 __pycache__
 oopoa.egg-info
+build
+dist
+.venv

@@ -6,12 +6,15 @@
 - Standard benchmark functions
 - CSV export of fitness log
 
-🔜 v0.2
+✅ v0.2
 - Multi-function plotting
-- Configurable plot style/themes
 - Graceful fallbacks for invalid input
+- Improved calling default benchmark functions
+- Added cross-platform colored terminal text.
+- PyPI Support
 
-🧪 Future Ideas
+🔜 v0.3
+- Configurable plot style/themes
 - Export config/summary report
-- GUI dashboard for live optimization
-- Integration with Optuna or MLflow
+- Support custom file names
+- Support folders plotting

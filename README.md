@@ -1,15 +1,37 @@
 # 🧠 OOPOA CLI – Object-Oriented Programming Optimization Algorithm
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/github/license/LA-10/oop-optimizer)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.0-orange)
+![Version](https://img.shields.io/badge/version-0.2.0-orange)
 ![Platform](https://img.shields.io/badge/platform-cli-lightgrey)
-
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PyPI - Coming Soon](https://img.shields.io/badge/pypi-coming%20soon-yellow)](https://pypi.org/)
-
+[![PyPI](https://img.shields.io/badge/pypi-available-green)](https://test.pypi.org/project/oopoa/0.2/)
 
 **OOPOA CLI** is a research-grade command-line tool that fully implements the **Object-Oriented Programming Optimization Algorithm (OOPOA)** — a novel metaheuristic introduced in 2024.
+
+## Table of Conetent
+- [🧠 OOPOA CLI – Object-Oriented Programming Optimization Algorithm](#-oopoa-cli--object-oriented-programming-optimization-algorithm)
+  - [Table of Conetent](#table-of-conetent)
+  - [Functionalities Overview:](#functionalities-overview)
+  - [📖 Original Paper Reference](#-original-paper-reference)
+  - [🚀 Features](#-features)
+  - [📦 Installation](#-installation)
+  - [📁 Project Structure](#-project-structure)
+  - [🧪 Examples](#-examples)
+  - [🧠 Mathematical Basis](#-mathematical-basis)
+  - [🧾 Citation \& Credits](#-citation--credits)
+  - [🛣 Roadmap](#-roadmap)
+  - [💬 Feedback \& Contributions](#-feedback--contributions)
+  - [📄 License](#-license)
+-----
+
+## Functionalities Overview:
+| | | 
+|:-------------------------:|:-------------------------:
+|<img width="2406" src="examples/output_sample/multi-plot/Figure_1.png">  Multi-Graph | <img width="2406" src="examples/output_sample/sphere/run_sphere.png">  Custom Plot|
+|<img width="2406" src="examples/output_sample/custom/run_custom.png">  Custom Functions|  <img width="2406" src="examples/output_sample/griewank/run_griewank.png"> Default Functions |
+|<img width="2406" src="examples/output_sample/ackley/run_ackley.png">  Custom Population|  <img width="2406"  src="examples/output_sample/rastrigin/run_rastrigin.png"> Custom Benchmark|
 
 The original paper presented only **high-level pseudocode and performance graphs**. This CLI bridges that gap by offering:
 
