@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "oopoa"
-version = "0.2"
+version = "0.2.1"
 description = 'OOPOA CLI Tool (Object-Oriented Programming Optimization Algorithm)'
 dependencies = [
     "numpy",
